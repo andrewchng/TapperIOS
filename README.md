@@ -1,2 +1,2 @@
 # TapperIOS
-Simple IOS app 
+Simple tapping IOS game project 
